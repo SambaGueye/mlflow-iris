@@ -1,0 +1,4 @@
+artifact_location: file:///C:/Users/Samba%20GUEYE/Desktop/Formation%20Machine%20Learning/mlFlow/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: RandomForest_models
